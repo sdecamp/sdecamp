@@ -1,0 +1,57 @@
+# vcode
+.vscode/
+
+# intellij
+.idea/
+*.iml
+*.iws
+*.ipr
+
+
+# eclipse
+.classpath
+.project
+.apt_generated
+.factorypath
+.settings
+.springBeans
+.sts4-cache
+
+
+# netbeans
+nbproject/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+.nb-gradle-properties
+
+
+# mac
+.DS_Store
+
+
+# common
+log/
+target/
+out/
+build/
+classes/
+.gradle/
+*.log
+*.swp
+core.*
+*.core
+*.log
+# binaries
+*.7z
+*.dmg
+*.gz
+*.iso
+*.rar
+*.tar
+*.zip
+*.war
+*.ear
+*.sar
+*.class
